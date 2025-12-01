@@ -32,8 +32,11 @@ Barquisimeto, Venezuela · Disponible full-time remoto
 | Pets Center               | Sistema de gestión veterinaria (proyecto universitario) | Laravel / PHP / MySQL       | [Ver repo →](https://github.com/fyZton/Pets-center) |
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.anuraghazra.io/api?username=fyZton&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Luis's GitHub stats" width="500"/>
-<img src="https://github-readme-stats.anuraghazra.io/api/top-langs/?username=fyZton&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fyZton&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fyZton&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 ## 📬 ¿Hablamos?
 - Email: luisrodriguezpargas@gmail.com
