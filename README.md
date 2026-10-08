@@ -1,46 +1,42 @@
-# ¡Hola! Soy Luis Rodríguez 🚀
+# Luis Rodríguez
 
-**Ingeniero de Sistemas (UNEFA 2025)**  
-Desarrollador Junior Fullstack | PHP/Laravel · JavaScript · Python · Salesforce Apex  
-Barquisimeto, Venezuela · Disponible full-time remoto
+Ingeniero de Sistemas. Trabajo con Salesforce y en backend e integraciones: conecto CRM, ERP y marketplaces por API.
+Venezuela · remoto · disponible en horario de Latinoamérica, EE. UU. o Europa.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Rodríguez-blue)](https://www.linkedin.com/in/luis-rodriguez-518ab4252)
-[![Trailblazer](https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0)](https://www.salesforce.com/trailblazer/fyzton)
-[![CV](https://img.shields.io/badge/CV-Download-green)](https://drive.google.com/file/d/1qCCLc02hzAoJM85RMxuhpke-2aGnSiJm/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--rodriguez--dev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-rodriguez-dev)
+[![Trailblazer](https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/fyzton)
+[![CV](https://img.shields.io/badge/CV-PDF-2E7D32)](https://drive.google.com/file/d/1qCCLc02hzAoJM85RMxuhpke-2aGnSiJm/view)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## Certificaciones Salesforce
 
-## 🛠 Tecnologías principales
-- **Backend:** PHP (Laravel), Python (Flask), Apex (Salesforce)  
-- **Frontend:** HTML, CSS, JavaScript, Lightning Web Components (LWC)  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Herramientas:** Git, GitHub, Postman, VSCode, Laragon, XAMPP  
-- **Otros:** Metodologías ágiles, documentación técnica, trabajo en equipo
+- Salesforce Certified Administrator
+- Salesforce Certified Advanced Administrator
+- Salesforce Certified Platform Developer I
+- Platform Developer II (en curso)
 
-## 🌟 Proyectos destacados
+## Qué hago ahora
 
-| Proyecto                  | Descripción breve                                   | Tecnologías                     | Link                                      |
-|---------------------------|-----------------------------------------------------|---------------------------------|-------------------------------------------|
-| Sistema de Gobernación    | Aplicación web interna desarrollada en pasantía     | Python + PostgreSQL + HTML/JS   | [Ver repo →](https://github.com/fyZton/sistema-gobernacion) |
-| Bellavista App            | Landing/app web responsive                          | HTML · CSS · JavaScript         | [Ver repo →](https://github.com/fyZton/bellavista-app) |
-| Consejo Comunal           | Automatización de procesos comunitarios             | Python                          | [Ver repo →](https://github.com/fyZton/Consejo-Comunal) |
-| Pets Center               | Sistema de gestión veterinaria (proyecto universitario) | Laravel / PHP / MySQL       | [Ver repo →](https://github.com/fyZton/Pets-center) |
+Contractor remoto para una empresa de e-commerce en España. Mantengo un motor que sincroniza stock entre
+marketplaces de 3 países y 6 proveedores vía API, con reportes en SQLite.
 
-## 📊 GitHub Stats
+Antes: personalización de un ERP (iDempiere) en Java y SQL, un sitio WordPress con PHP a medida y una app
+web interna en Python y PostgreSQL.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fyZton&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fyZton&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+## Proyectos
 
-## 📬 ¿Hablamos?
-- Email: luisrodriguezpargas@gmail.com
-- WhatsApp: +58 412-1575483
-- LinkedIn: [linkedin.com/in/luis-rodriguez-518ab4252](https://www.linkedin.com/in/luis-rodriguez-518ab4252)
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [job-apply-agent](https://github.com/fyZton/job-apply-agent) | Agente que busca ofertas, las califica con un LLM y llena formularios solo con datos del perfil. Plugins por sitio, tablero demo local, 38 tests y CI. | Python, Playwright, pytest, GitHub Actions |
+| [sales-analytics-pipeline](https://github.com/fyZton/sales-analytics-pipeline) | ETL de ventas a MongoDB, API y dashboard. | Python, FastAPI, MongoDB, Next.js, Docker |
+| [sistema-gobernacion](https://github.com/fyZton/sistema-gobernacion) | App web interna hecha en la pasantía. | Python, PostgreSQL |
+| [Pets-center](https://github.com/fyZton/Pets-center) | Gestión de una veterinaria (proyecto universitario). | Laravel, PHP, MySQL |
 
-¡Abierto a oportunidades junior remotas y colaboraciones!
+## Herramientas
+
+- **Salesforce:** Apex, LWC, Flows, administración
+- **Backend:** Python, PHP (Laravel), Java, APIs REST, webhooks
+- **Automatización:** n8n, WhatsApp Cloud API
+- **Datos:** PostgreSQL, MySQL, SQLite, MongoDB
+- **Infra:** Docker, Linux, Nginx, Git
+
+Busco un puesto junior remoto, como empleado o contractor. Escríbeme por LinkedIn.
